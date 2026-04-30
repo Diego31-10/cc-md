@@ -115,3 +115,20 @@ The skill itself tells you which.
 ## User Instructions
 
 Instructions say WHAT, not HOW. "Add X" or "Fix Y" doesn't mean skip workflows.
+
+## Available Skills
+
+- brainstorming: Ideate new features, components, and design approaches before implementation
+- systematic-debugging: Diagnose root causes of bugs and failures methodically
+- writing-plans: Decompose multi-step tasks into structured implementation plans
+- test-driven-development: Write tests first, then implementation code following TDD discipline
+- executing-plans: Execute written implementation plans with review checkpoints
+- subagent-driven-development: Delegate independent tasks to parallel agents in the current session
+- dispatching-parallel-agents: Coordinate 2+ independent tasks across separate agent sessions
+- requesting-code-review: Complete tasks and verify work meets requirements before merging
+- receiving-code-review: Process code review feedback and implement suggestions
+- finishing-a-development-branch: Finalize work and decide how to integrate completed branches
+- verification-before-completion: Run verification checks before claiming work is complete
+- using-git-worktrees: Isolate feature work in git worktrees before execution
+- writing-skills: Create new skills or edit existing skills for deployment
+- cc-md: Initialize or re-scan a project with persistent memory. Use when the user types `/cc-md`, asks to "setup memory", "activate cc-md", or starts a session in a project that has `.cc-md.json` but no CLAUDE.md.
