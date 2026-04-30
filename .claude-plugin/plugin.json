@@ -1,20 +1,22 @@
 {
-  "name": "superpowers",
-  "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-  "version": "5.0.7",
+  "name": "cc-md",
+  "description": "Local memory and workflow layer for Claude Code — persistent project context + superpowers skills",
+  "version": "1.0.0",
   "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Diego31-10",
+    "email": "diegoantv31@gmail.com"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/Diego31-10/cc-md",
+  "repository": "https://github.com/Diego31-10/cc-md",
   "license": "MIT",
   "keywords": [
+    "memory",
+    "context",
+    "workflow",
     "skills",
     "tdd",
     "debugging",
-    "collaboration",
-    "best-practices",
-    "workflows"
+    "claude-code",
+    "persistence"
   ]
 }

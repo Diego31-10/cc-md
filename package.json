@@ -1,6 +1,20 @@
 {
-  "name": "superpowers",
-  "version": "5.0.7",
+  "name": "@diegos31/cc-md",
+  "version": "1.0.0",
+  "description": "Local memory and workflow layer for Claude Code — persistent project context + superpowers skills",
   "type": "module",
-  "main": ".opencode/plugins/superpowers.js"
+  "keywords": ["claude", "claude-code", "memory", "workflow", "skills", "ai", "development"],
+  "author": "Diego31-10",
+  "license": "MIT",
+  "homepage": "https://github.com/Diego31-10/cc-md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diego31-10/cc-md.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Diego31-10/cc-md/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
