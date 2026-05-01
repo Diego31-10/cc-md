@@ -1,5 +1,5 @@
 {
-  "name": "cc-md",
+  "name": "CC.md",
   "description": "Local memory and workflow layer for Claude Code — persistent project context + superpowers skills",
   "version": "1.0.0",
   "author": {

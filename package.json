@@ -1,5 +1,5 @@
 {
-  "name": "@diegos31/cc-md",
+  "name": "@diegos31/CC.md",
   "version": "1.0.0",
   "description": "Local memory and workflow layer for Claude Code — persistent project context + superpowers skills",
   "type": "module",
